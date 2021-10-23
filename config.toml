@@ -18,12 +18,6 @@ googleAnalytics = "G-YKXESPLGL9"
     # highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
 
-[[menu.main]]
-    url = "/post/"
-    name = "Posts"
-    weight = 3
-
-
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
 # The list of available icons can be found at http://fontawesome.io/icons.

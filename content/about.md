@@ -10,4 +10,8 @@ Hello there, my name is Johnny. I started this blog due to the reasons below:
 - I kinda always wanted to have my own little ground on the internet.
 - I want to know how well I write.
 
+Some technical details:
+- Site is built with: [Hugo](https://gohugo.io)
+- Theme: [Archie Theme](https://github.com/athul/archie)
+
 And there you go, this is what it turned out for me. I hope you enjoy this blog as much as I've enjoyed writing every word here :)

@@ -5,6 +5,16 @@ theme = "archie"
 # disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = "G-YKXESPLGL9"
 
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
 [params]
     author = "Johnny Chang"
     # description = "Personal blog theme powered by Hugo"

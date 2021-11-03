@@ -14,4 +14,9 @@ Some technical details:
 - Site is built with: [Hugo](https://gohugo.io)
 - Theme: [Archie Theme](https://github.com/athul/archie)
 
+Oh, and about the name, here are some thoughts behind it:
+- Jalen Hurts is an amazing quarterback.
+- Programming sometimes hurts, mostly mental.
+- It sounded very catchy to me.
+
 And there you go, this is what it turned out for me. I hope you enjoy this blog as much as I've enjoyed writing every word here :)

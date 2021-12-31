@@ -59,6 +59,7 @@ Life is short, careers are shorter, these are what worked for me, they might not
 2. {{< note 2 >}} It's a gadget/hand-held device that has several apps bulit-in, mostly translating ones. 
    
    This one looks a lot like the one I had.
+
    ![BESTA CD-952](/translator.png)
 
    I'm very surprised that the company (BESTA) is still alive and selling [these](https://www.besta.com.tw/zh-tw/Product/digital_learn/ProductList/ElectronicDictionary), I guess smartphones and internet didn't overtake their market completely. I can't remember the exact machine I had, but I do believe that it's one of my parents' best investment considering how much stuff it helped me accomplished.

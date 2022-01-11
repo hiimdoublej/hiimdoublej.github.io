@@ -16,7 +16,7 @@ When I was a little kid, my mom had a laptop. Since she's usually busy at work, 
 
 When GTA 4 came out, I was very into modding it ever since I found out that it's as easy as just changing the numbers in some random txt files and restart then BOOM! My car in game can go super fast or super durable, depending on which number you changed. Back then I thought all modding is just as simple as that and I tried opening random stuff with text editors to know that most game/applications doesn't work like that. I guess you can call that programming.
 
-Also, I had a translator{{< link-note 2 >}} that's capable of writing and executing BASIC programs. I remembered I code up a program that draws 1 circle at the top left of the screen. Even though it's interesting to see a semi-computer work to my will through codes, I don't know what else it can do for me and I just stopped their. I think that's the earliest chunk of code I've ever written.
+Also, I had a translator{{< link-note 2 >}} that's capable of writing and executing BASIC programs. I remembered I code up a program that draws 1 circle at the top left of the screen. Even though it's interesting to see a semi-computer work to my will through codes, I don't know what else it can do for me and I just stopped there. I think that's the earliest chunk of code I've ever written.
 
 ## University
 
@@ -62,7 +62,7 @@ Life is short, careers are shorter, these are what worked for me, they might not
 
    ![BESTA CD-952](/translator.png)
 
-   I'm very surprised that the company (BESTA) is still alive and selling [these](https://www.besta.com.tw/zh-tw/Product/digital_learn/ProductList/ElectronicDictionary), I guess smartphones and internet didn't overtake their market completely. I can't remember the exact machine I had, but I do believe that it's one of my parents' best investment considering how much stuff it helped me accomplished.
+   I'm very surprised that the company (BESTA) is still alive and selling [these](https://www.besta.com.tw/zh-tw/Product/digital_learn/ProductList/ElectronicDictionary), I guess smartphones and internet didn't overtake their market completely. I can't remember the exact machine I had, but I do believe that it's one of my parents' best investment considering how much stuff it helped me accomplished. ([Picture courtesy of BESTA](https://www.besta.com.tw/zh-tw/Product/digital_learn/ProductContent/CD-952/1))
    {{< link-note-ref 2 >}}
 
 3. {{< note 3 >}}Line stolen from Charles Boyle and Rosa Diaz in Brooklyn 99. It's a great show and I love it.

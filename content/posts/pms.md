@@ -74,7 +74,7 @@ The most recent one I have in mind was a supposedly experienced PM who had worke
 
 Yes everyone was okay with everything, but how do you even convince yourself that you made a good decision for the company or for anyone ? The lack of opinion and the void thought process is the concern here. When you gotta make decisions you have to make them and take responsibility since that is your job.
 
-Thankfully, the PM I described got fired not too long after<sup>1</sup>, and I do not get this type of PMs very often. But when I do, they're out of my sight fairly quickly. I can't be sure how I'll be when I'm forced to work with one for a long long time. Maybe I'll just try to avoid them as much as possible.
+Thankfully, the PM I described got fired not too long after[^1], and I do not get this type of PMs very often. But when I do, they're out of my sight fairly quickly. I can't be sure how I'll be when I'm forced to work with one for a long long time. Maybe I'll just try to avoid them as much as possible.
 
 ## Type K - Micromanaging 
 This is also a once-in-a-while type for me. I've only encounter one PM that I could fit into this category. The symptoms are very obvious and I knew that I'm being micromanaged from the very first implementation that I'm trying to deliver.
@@ -95,4 +95,4 @@ Each individual is different, PMs are people too, it's impossible to just group 
 I think the key takeaway for all these PMs is the ability to have objective communications, as a programmer I need to feel at ease when I'm trying to communicate with one, and when I try to stay objective about stuff, the conversation should feel pretty swift and both parties can strike a reasonable balance according to the objectives. I feel like if any PM can do that, they're in a good spot already and they should only need some other minor pieces to work efficiently in any given environment.
 
 ---
-1. It's actually outrageous how he got fired. From my understanding of the matter, during a discussion with one of the team leads, he directly used the team lead's computer and replied to a Slack thread using the team lead's account. Yes, in the most blatant way, 2 guys having a conversation and one just peeked at another one's computer and just started typing with the owner witnessing the entire sequence. I'm just gonna leave it here and let you think about the outrageousness level for this matter.
+[^1]: It's actually outrageous how he got fired. From my understanding of the matter, during a discussion with one of the team leads, he directly used the team lead's computer and replied to a Slack thread using the team lead's account. Yes, in the most blatant way, 2 guys having a conversation and one just peeked at another one's computer and just started typing with the owner witnessing the entire sequence. I'm just gonna leave it here and let you think about the outrageousness level for this matter.

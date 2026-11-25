@@ -15,8 +15,14 @@ name = "About"
 url = "/about"
 weight = 2
 
+[[menu.main]]
+name = "微波換算所"
+url = "https://combini-heat-scanner.johnnyhurts.com/"
+weight = 3
+
 [params]
     author = "Johnny Chang"
+    subtitle = "[微波換算所（Combini Scanner）](https://combini-heat-scanner.johnnyhurts.com/)：掃描食品包裝上的加熱 QR Code，或輸入包裝標示的瓦數與時間，就能換算成家裡微波爐的加熱時間。"
     # description = "Personal blog theme powered by Hugo"
     githubUsername = "hiimdoublej"
     accent = "grey"
